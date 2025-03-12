@@ -49,6 +49,7 @@ body::before {
     cursor: pointer;
     border-radius: 55px;
     transition: 0.3s ease-in-out;
+    margin-bottom: auto;
 }
 
 #menu-btn:hover {
