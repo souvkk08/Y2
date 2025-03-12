@@ -95,7 +95,7 @@ body::before {
 }
 
 body.popup-content {
-    display: none; /* Hide background elements */
+    display: none;
 }
 .popup-content ul {
     list-style: none;
