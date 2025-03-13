@@ -174,8 +174,8 @@ body.popup-content {
     top: 20px; 
     right: 20px; 
     width: 15vw;  
-    max-width: 250px;  
-    height: fit-content;
+    max-width: 300px;  
+    height: auto;
     z-index: 10;
 }
 @media (max-width: 768px) {
