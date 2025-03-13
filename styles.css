@@ -180,8 +180,8 @@ body.popup-content {
 }
 @media (max-width: 768px) {
     .corner-image {
-        width: 18vw; 
-        max-width: 80px;
+        width: 25vw; 
+        max-width: 150px;
         top: 10px;
         right: 10px;
     }
